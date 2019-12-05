@@ -1,5 +1,5 @@
 # Chatapp widget admin client.
-Chatapp widget admin client is a client-side part for a Chat Application using React, Redux, Redux-Saga, and Jexia's Real Time Communication.
+Example app: Chat app widget admin client is a client-side part for a Chat Application using React, Redux, Redux-Saga, and Jexia's Real Time Communication.
 
 [Widget is a server-side part of this Chat Application](https://github.com/jexia/chatapp-widget)
 
